@@ -1,0 +1,4 @@
+##c to mips practice
+
+
+	
